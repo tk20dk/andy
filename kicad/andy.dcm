@@ -1,0 +1,22 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2152
+F https://www.diodes.com/assets/Datasheets/AP2142_52.pdf
+$ENDCMP
+#
+$CMP ESD5Z2.3
+D ESD Protection Diode
+K diode TVS voltage suppressor
+$ENDCMP
+#
+$CMP ESD5Z5.0
+D ESD Protection Diode
+K diode TVS voltage suppressor
+$ENDCMP
+#
+$CMP TMUX1121DGKR
+D Analog Switch ICs 5-V, Low-Leakage-Current, 1:1 (SPST), 2-Channel Precision Switches (active high) 8-VSSOP -40 to 125
+F https://www.ti.com/lit/gpn/TMUX1121
+$ENDCMP
+#
+#End Doc Library
